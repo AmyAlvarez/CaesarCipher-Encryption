@@ -31,7 +31,7 @@ def decrypt_file(input_file, output_file, decryption_func, key):
     print("Decryption successful!")
 
 # Example usage
-# Replace 'input.txt' with the path of the file you'd like to encrypt or decrypt
+# Replace 'input.txt' or 'output.txt' with the path of the file you'd like to encrypt or decrypt
 input_file = "input.txt"
 output_file = "output.txt"
 shift = 3
